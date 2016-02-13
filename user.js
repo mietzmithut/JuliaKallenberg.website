@@ -9,7 +9,7 @@ $DOC.parseContent(function(){/*
 [Home]({{=$DOC.root}}index.html)
 ***
 * [Docs]({{=$DOC.root}}index.html)
- * [CML (Component Markdown Language)]({{=$DOC.root}}docs/CML.html)
+ * [CML (Component Markdown Language)]({{=$DOC.root}}docs/Blog.html)
  * [CSS]({{=$DOC.root}}components/controls.css.html)
  * [Layout]({{=$DOC.root}}docs/layout.html)
  * [URL parameters]({{=$DOC.root}}docs/url-parameters.html)
